@@ -1,4 +1,4 @@
-# KAD78DarkFly-Tool
+# KAD78/DarkFly-Tool
 The latest version of DarkFly tool V.4.0
 
 DarkFly now is: <a href="https://github.com/Ranginang67/DarkFly-2019.1">DarkFly-2019.1</a> (generation of DarkFly-tool) Try it.
@@ -35,8 +35,3 @@ $python2 install.py
 for update this tool, just do the reinstallation, the first way is to install the Darkfly tools, by reinstalling, the old file will be deleted and replaced with the new one installed.
 # note
 ```
-the DarkFly tools on linux does not working
-```
-
-# support me
-<a href="https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ"><img src="https://img.shields.io/badge/subcribe-YouTube-red.svg">
