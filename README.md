@@ -1,4 +1,4 @@
-# DarkFly-Tool
+# KAD78/DarkFly-Tool
 The latest version of DarkFly tool V.4.0
 
 DarkFly now is: <a href="https://github.com/Ranginang67/DarkFly-2019.1">DarkFly-2019.1</a> (generation of DarkFly-tool) Try it.
@@ -13,7 +13,7 @@ install:
 
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/DarkFly-Tool`
+* `git clone https://github.com/KAD78/DarkFly-Tool`
 * `cd DarkFly-Tool`
 * `python2 install.py`
 
